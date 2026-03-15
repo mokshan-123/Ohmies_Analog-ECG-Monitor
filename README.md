@@ -4,7 +4,7 @@ A portable, battery-powered analog front-end for single-lead ECG signal acquisit
 
 ---
 
-##  Team — Ohmies
+##  Team — Ohmies | Contributors
 
 | Name | Index |
 |---|---|
